@@ -12,5 +12,5 @@ class Config(object):
     S8 = "1BVtsOKEBuwFmCdeCMXzH7ajTdt__sdNkjlMmKJ5iVas6NUBsIewzVYSu59Pco3BQHBDkphLvdwyYyUlzxdO39xs6copwdPZW1bA0MbN1n68UsuBhF8MgdF8J7wOBM-3ALMiWPwvxuVH01UhcZvMHGZSP9gMmfjhCLFbqTOv5Dir1QGpgwscB6QqmuZuH3BD6uqrExpp8ckoSDVVpsAOVHr8KWhmTpXkUSXZF6mCCycF2eiD4OKcsd5TfDem-UeM--cH729KRZzHQTustcgj5S_6NWA4NqP4UrrNfGTmBD0h4NMixYHX6e30Cd8T30bzieternjdTg5h6uEvr76QSn-wjRM48kN8="
     S9 = "1BVtsOKEBuzA4bBSgeP5MSpq10M1UC-lunzTtkEEc0A9J4VL-iPpHC6RPDF3umRAMg1QeCoT5sKNwzcDX7Is7HnRsVub8GnIlKPhP4yjn7zhefG_2ntpagJ89RpB1nKkA7g9NHxqz_PGRTVxHwA1VaEIsobi-rvFx4W-4Gs-5NPrPR_w5wHIw0hOD3MwOvhpTeOmSJP3yCW_wScjWKe1Vd1xIymB-Qe8b-Oc_iNCkSl-3DPlZvIAPBIyO0f7CVK8ZaEYXaUfErmbpQ9HzwUAVYvCoimCAowR4asKdf8RZSw-cw-8lbxsy6RBJFO2cDVk5_nJ_4oHr5eFL_bJBUq7GU0KA6zotNXU="
     S10 = "1BVtsOKEBu5ddpx-yq1sCB_iZa5tkLBf3TG3oN5wVpicW781IcGS-W2g19_RwMKtJEFv6-bkOS0qLMb6NeC6sHvbxNsg4p_dyrhMv05AMbwAIoNklOFI8uym1QkmsNdZO3wiN-_yLG-IQsoOUtP9cKS6hPaMvtJhmA2NdLhlwRmmxKPPkJxaaOXLQLBvji_B-kqvRbFed89-kDszYA9vk0LPnMYIPC-9IeS4ysoa5BiRPxatZ9gZXqcKshso64k5QHTF92GfiPSangm4CH7CTVie5QLzS-lMacVZwcT934nsRvE78r1DNepJgeZubKD8S__MVyhuWr54ZwnvglMFIKE4gGnHbBwI="
-    SUDO_USERS = [7100217891] # Replace with your user id.. if you want to add more then seperate it with a comma ( , )
+    SUDO_USERS = [7100217891, 7683165871] # Replace with your user id.. if you want to add more then seperate it with a comma ( , )
 
